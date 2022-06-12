@@ -3,7 +3,7 @@
 ![styles](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
-# Aplicación React - Citas veterinaria
+# Aplicación React - Cotizador de criptomonedas
 Proyecto cotizador de criptomonedas, Elaborado en [React](https://github.com/facebook/create-react-app) version 16.12.0, Javascript, Styled components.
 
 [DEMO](https://rgomez2978.github.io/react-cotizador-criptomonedas/)
