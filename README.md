@@ -4,13 +4,14 @@
 
 
 # Aplicación React - Citas veterinaria
-Proyecto de creación de citas veterinaria, Elaborado en [React](https://github.com/facebook/create-react-app) version 16.12.0, Javascript, Styled components y LocalStorage.
+Proyecto cotizador de criptomonedas, Elaborado en [React](https://github.com/facebook/create-react-app) version 16.12.0, Javascript, Styled components.
 
 [DEMO](https://rgomez2978.github.io/react-cotizador-criptomonedas/)
 
 
 ## Instalación de Librerias
 A continuación se indican las librerias necesarias para la ejecución del proyecto.
+
       npm i
       npm i gh-pages --save-dev
 
